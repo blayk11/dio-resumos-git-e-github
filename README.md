@@ -20,3 +20,6 @@ git pull origin main | Baixa as alterações, origin é o repositório remoto e 
 git clone URL <nome da pasta> | Clona o repositório remoto, o nome alterado da pasta é opcional
 git clone URL  —branch BranchName —single-branch | Clona apenas uma branch específica
 git status | Status da arvore de trabalho e index
+.gitignore | Ignora um diretório/arquivo ao fazer commit
+.gitkeep | Reconhece um diretório vazio ao fazer commit
+git log | Histórico dos commits

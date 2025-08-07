@@ -27,4 +27,3 @@ Repositório para armazenar descrição sobre comandos Git e GitHub do curso Ver
 | git reflog | Histórico detalhado dos commits |
 | git reset <file> | Desfazer alterações em um repositório |
 | git restore —staged <file> | Remove o arquivo da área de preparação |
-|  |  |

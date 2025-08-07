@@ -25,6 +25,6 @@ Repositório para armazenar descrição sobre comandos Git e GitHub do curso Ver
 | git commit —amend -m | Altera a mensagem do último commit feito |
 | git reset —soft / —mixed / —hard HASH | Restaura o repositório para uma versão de um commit anterior (buscar docs para os diferentes parâmetros) |
 | git reflog | Histórico detalhado dos commits |
-| git reset <file> | Remove o arquivo da área de preparação |
-| git restore —staged <file> | Remove o arquivo da área de preparação* |
+| git reset <file> | Desfazer alterações em um repositório |
+| git restore —staged <file> | Remove o arquivo da área de preparação |
 |  |  |
